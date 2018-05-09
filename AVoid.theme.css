@@ -273,3 +273,12 @@
     background-color: rgba(255, 0, 255, 0.1);
     color: #fff;
 }
+
+.headerSpotify-zpWxgT {
+    background: #000000;
+}
+
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: #000000;
+    color: hsla(0,0%,100%,.8);
+}
