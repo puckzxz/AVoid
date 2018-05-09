@@ -243,3 +243,18 @@
         filter: hue-rotate(360deg);
     }
 }
+
+
+.theme-dark #friends {
+    background-color: #000000;
+}
+
+.theme-dark .headerBar-UHpsPw {
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);
+    background: #000000;
+    box-shadow: 0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);
+}
+
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background-color: #000000;
+}
